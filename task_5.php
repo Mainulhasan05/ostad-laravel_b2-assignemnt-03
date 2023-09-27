@@ -1,5 +1,4 @@
 <?php
-// write code to generate a function that will take the length and generate random password The password should include lowercase letters, uppercase letters, numbers, and special characters (!@#$%^&*()_+)
 function generatePassword($length){
     $result="";
     $characters="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+";
